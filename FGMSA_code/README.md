@@ -29,3 +29,4 @@ Normally the pip install command will handle the python dependency packages. The
 - tqdm >= 4.62.2
 - scikit-learn >= 0.24.2
 - easydict >= 1.9
+- The feature file is large (about 1.6G) and can be downloaded from https://1drv.ms/u/s!AjnIA7eR-eoWhTvAGRK3kmrpaDJ6?e=lRhVgP. To run the souce code, the feature file should be placed in the folder FGMSA_code.
