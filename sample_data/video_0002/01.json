@@ -1,0 +1,34 @@
+﻿{
+  "contents": {
+    "phrase_count": [
+      5,
+      3
+    ],
+    "sentences": [
+      "我觉得还是一个中长期", // I think it is a medium or long term.
+      "肯定是利好" // It is definitely good.
+    ]
+  },
+  "phrases": {
+    "TimeStamp": [
+      0.2,
+      0.4,
+      0.6,
+      0.8,
+      1.28,
+      1.48,
+      1.68,
+      2.24
+    ],
+    "phrase_list": [
+      "我",
+      "觉得",
+      "还是",
+      "一个",
+      "中长期",
+      "肯定",
+      "是",
+      "利好"
+    ]
+  }
+}

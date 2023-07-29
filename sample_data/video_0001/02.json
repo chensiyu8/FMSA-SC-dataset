@@ -1,0 +1,52 @@
+﻿{
+  "contents": {
+    "phrase_count": [
+      9,
+      8
+    ],
+    "sentences": [
+      "可是你这两天再去看煤炭", // But if you pay attention to the coal market these two days,
+      "那显然不是捡钱的机会了" // It is obviously not an opportunity to make money.
+    ]
+  },
+  "phrases": {
+    "TimeStamp": [
+      0.36,
+      0.52,
+      0.68,
+      0.84,
+      0.96,
+      1.16,
+      1.32,
+      1.52,
+      2.08,
+      2.24,
+      2.56,
+      2.8,
+      2.96,
+      3.04,
+      3.12,
+      3.44,
+      3.88
+    ],
+    "phrase_list": [
+      "可是",
+      "你",
+      "这",
+      "两",
+      "天",
+      "再",
+      "去",
+      "看",
+      "煤炭",
+      "那",
+      "显然",
+      "不是",
+      "捡",
+      "钱",
+      "的",
+      "机会",
+      "了"
+    ]
+  }
+}

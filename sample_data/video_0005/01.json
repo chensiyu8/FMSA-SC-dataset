@@ -1,0 +1,28 @@
+﻿{
+  "contents": {
+    "phrase_count": [
+      6
+    ],
+    "sentences": [
+      "它就是套人的行情" // It is a trap market.
+    ]
+  },
+  "phrases": {
+    "TimeStamp": [
+      0.28,
+      0.48,
+      0.64,
+      0.72,
+      0.8,
+      1.2
+    ],
+    "phrase_list": [
+      "它",
+      "就是",
+      "套",
+      "人",
+      "的",
+      "行情"
+    ]
+  }
+}
